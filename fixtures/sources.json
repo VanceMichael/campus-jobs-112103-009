@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {"source_id": "career-page-a", "record_kind": "job_posting", "collected_at": "2026-09-03T08:00:00+08:00", "payload": {"posting_ref": "POST-91", "employer_ref": "EMP-SYN-4", "title": "智能设备现场支持", "location": "CITY-B", "employment_kind": "full-time", "updated_at": "2026-09-02T18:10:00+08:00", "skills": ["device-diagnostics", "customer-support"]}},
+    {"source_id": "fair-feed-b", "record_kind": "job_posting", "collected_at": "2026-09-03T08:18:00+08:00", "payload": {"posting_ref": "FAIR-21-POST-8", "employer_ref": "EMP-SYN-4", "title": "智能设备现场支持", "location": "CITY-C", "employment_kind": "internship", "updated_at": "2026-09-02T20:00:00+08:00", "skills": ["device-diagnostics", "field-reporting"]}},
+    {"source_id": "course-6", "record_kind": "course", "collected_at": "2026-08-20T13:40:00+08:00", "payload": {"course_ref": "COURSE-6", "revision": 3, "skills": ["device-diagnostics", "field-reporting"], "term": "2026-autumn"}},
+    {"source_id": "employer-update-2", "record_kind": "posting_update", "collected_at": "2026-09-09T11:00:00+08:00", "payload": {"posting_ref": "POST-91", "revision": 2, "state": "closed", "effective_at": "2026-09-08T17:00:00+08:00"}},
+    {"source_id": "placement-feedback-10", "record_kind": "placement_feedback", "collected_at": "2026-09-12T15:16:00+08:00", "payload": {"posting_ref": "POST-91", "course_ref": "COURSE-6", "stage": "interview", "response_state": "received", "skill_revision": 3}}
+  ]
+}
